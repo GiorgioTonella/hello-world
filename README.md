@@ -1,2 +1,3 @@
 # hello-world
-Just a test 
+
+This project is about.... and you should use it when...
